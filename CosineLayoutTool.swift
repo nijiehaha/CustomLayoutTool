@@ -1,11 +1,3 @@
-//
-//  CosineLayoutTool.swift
-//  ProfessionalIDPhotoSwift
-//
-//  Created by lufei on 2020/3/26.
-//  Copyright © 2020 leqi. All rights reserved.
-//
-
 import UIKit
 
 /// 余弦函数布局工具类
